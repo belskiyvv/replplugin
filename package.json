@@ -1,0 +1,22 @@
+{
+  "name": "REPL",
+  "description": "read and evaluation loop",
+  "version": "0.0.0",
+  "author": "",
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "plugins": {
+    "repl": {},
+    "repl.graphics": {}
+  },
+  "categories": ["miscellaneous"],
+  "licenses": []
+}
