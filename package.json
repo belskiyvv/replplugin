@@ -1,5 +1,5 @@
 {
-  "name": "REPL",
+  "name": "replplugin",
   "description": "read and evaluation loop",
   "version": "0.0.0",
   "author": "",
